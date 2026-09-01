@@ -1,2 +1,1 @@
-# 30-Days-first-project
-Developing my own portfolio 
+Task Manager
