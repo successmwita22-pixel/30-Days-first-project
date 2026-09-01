@@ -31,9 +31,7 @@ body {
 }
 
 
-/* =========================
-   APP CONTAINER
-========================= */
+/*   APP CONTAINER*/
 
 .app {
     width: min(900px, 92%);
@@ -41,9 +39,7 @@ body {
 }
 
 
-/* =========================
-   HEADER
-========================= */
+/*HEADER*/
 
 .app-header {
     display: flex;
